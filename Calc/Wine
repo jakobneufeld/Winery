@@ -1,6 +1,6 @@
 
 {
-"installationCommands":["echo MUHAHAHAHAHAAHa", "touch I"],
+"installationCommands":["cd calc", "make install"],
 "testCommands":["test -f I"],"dependecyFiles":["https://github.com/jakobneufeld/Swift-Adons.git"]
 ,"source":"https://github.com/jakobneufeld/Calc.git","name":"Calc"
 }
