@@ -1,6 +1,6 @@
 
 {
-"installationCommands":["cd calc", "make install"],
+"installationCommands":["cp -f  CALBBIN /usr/local/bin/calc"],
 "testCommands":["test -f I"],"dependecyFiles":["https://github.com/jakobneufeld/Swift-Adons.git"]
 ,"source":"https://github.com/jakobneufeld/Calc.git","name":"Calc"
 }
